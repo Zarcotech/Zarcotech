@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Zarcotech.
-- 👀 I’m super interested in coding.
-- 🌱 I’m currently learning Rust and C++
-- 📫 How to reach me: E-mail or Discord!
+# hi, my name is...
+
+Zidan Harb, also known as Zarcotech.
+
+[my website](https://zarcotech.dev)
 
 <!---
 Zarcotech/Zarcotech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
